@@ -1,5 +1,7 @@
 # SPH Fluid Simulation
 
+> **⚠️ NOTICE: This is experimental code and a work in progress. The implementation may contain bugs, performance issues, or incomplete features.**
+
 A basic 2D Smoothed-Particle Hydrodynamics (SPH) fluid simulation implemented in C++ with OpenGL rendering.
 
 ## Features
